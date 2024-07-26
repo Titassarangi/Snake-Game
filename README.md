@@ -1,7 +1,1 @@
-● This is a desktop application developed using Object Oriented
-Programming Principles (OOPs) in Java.
-● Java Swing and Java AWT are used to create the Graphical User
-Interface (GUI).
-● The game includes all the basic features of a classic Snake Game
-like giving directions through arrow keys, display of current and
-best scores and the rules for game over.
+The Snake Game project is a desktop application developed using Object Oriented Programming Principles (OOP) in Java. It utilizes Java Swing and Java AWT to create the graphical user interface (GUI). The game includes features such as directional control via arrow keys, display of current and best scores, and rules for game over. It replicates the classic Snake game, providing a nostalgic and interactive experience for users.
